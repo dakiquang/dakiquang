@@ -46,6 +46,7 @@ Case studies are at [quangdk.com/work](https://quangdk.com/work).
 
 | Project | What it shows | Measured |
 |---|---|---|
+| [PaidUp](https://github.com/dakiquang/paidup) | Invoices and safe payments across a Laravel API, a Next.js dashboard and an Expo app | [![ci](https://github.com/dakiquang/paidup/actions/workflows/ci.yml/badge.svg)](https://github.com/dakiquang/paidup/actions/workflows/ci.yml) 61 tests, 97.8% API coverage |
 | [pr-orchestrator](https://github.com/dakiquang/pr-orchestrator) | Cross-model pull request review with guardrails | [![validate](https://github.com/dakiquang/pr-orchestrator/actions/workflows/validate.yml/badge.svg)](https://github.com/dakiquang/pr-orchestrator/actions/workflows/validate.yml) |
 | [quangdk.com](https://github.com/dakiquang/quangdk.com) | Astro, EmDash and Tailwind on Cloudflare Workers | [![ci](https://github.com/dakiquang/quangdk.com/actions/workflows/ci.yml/badge.svg)](https://github.com/dakiquang/quangdk.com/actions/workflows/ci.yml) Lighthouse: 95 mobile, 97 desktop performance; 100 accessibility and SEO |
 
