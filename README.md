@@ -52,6 +52,16 @@ Case studies are at [quangdk.com/work](https://quangdk.com/work).
 | [qk](https://github.com/dakiquang/qk) | Agent skills for Claude Code, Codex and omp that keep making, checking and deciding separate | [![validate](https://github.com/dakiquang/qk/actions/workflows/validate.yml/badge.svg)](https://github.com/dakiquang/qk/actions/workflows/validate.yml) [![release](https://img.shields.io/github/v/release/dakiquang/qk?style=flat-square)](https://github.com/dakiquang/qk/releases) |
 | [quangdk.com](https://github.com/dakiquang/quangdk.com) | Astro, EmDash and Tailwind on Cloudflare Workers | [![ci](https://github.com/dakiquang/quangdk.com/actions/workflows/ci.yml/badge.svg)](https://github.com/dakiquang/quangdk.com/actions/workflows/ci.yml) Lighthouse: 95 mobile, 97 desktop performance; 100 accessibility and SEO |
 
+## Buy me a coffee
+
+If my open-source tools saved you an evening, a coffee keeps them going. More options on
+the [donate page](https://dakiquang.github.io/donate/).
+
+| MoMo · VietQR | PayPal |
+|:---:|:---:|
+| <img src="https://dakiquang.github.io/donate/images/qr-momo.png" width="180" alt="MoMo and VietQR code"> | <img src="https://dakiquang.github.io/donate/images/qr-paypal.png" width="180" alt="PayPal QR code"> |
+| [![Mở MoMo](https://img.shields.io/badge/M%E1%BB%9F%20MoMo-%E2%86%92-A50064?style=for-the-badge)](https://me.momo.vn/dakiquang) | [![Open PayPal](https://img.shields.io/badge/Open%20PayPal-%E2%86%92-0070BA?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dakiquang) |
+
 ## How I work
 
 Leave things out. Use your users' words. Be careful with money. One model writes, another reviews, a person decides.
